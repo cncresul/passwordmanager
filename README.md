@@ -1,4 +1,5 @@
 Şifre Yöneticisi
+
 Bu proje, kullanıcıların şifrelerini güvenli bir şekilde saklamalarını sağlayan basit bir şifre yöneticisi uygulamasıdır.
 
 Özellikler:
